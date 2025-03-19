@@ -6,9 +6,9 @@
 
 👩‍💻 Engenheira de Dados 🎲
 
-:pushpin: Certificações: Azure DP-900/Lakehouse Fundamentals - Databricks/ Generative AI Fundamentals-Databricks/Oracle Cloud Data Management/Oracle Cloud Infrastructure/ 
+:pushpin: Certificações: Azure DP-900 / DP-600
 
-🔧 Tecnologias: Python, Scala e Java
+🔧 Tecnologias: Python, Scala
 
 🏢 Atuando em: Engenharia de Dados
 
