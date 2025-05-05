@@ -6,7 +6,7 @@
 
 👩‍💻 Engenheira de Dados 🎲
 
-:pushpin: Certificações: Azure DP-900 / DP-600
+:pushpin: Certificações: Azure DP-600 / DP-900
 
 🔧 Tecnologias: Python, Scala
 
