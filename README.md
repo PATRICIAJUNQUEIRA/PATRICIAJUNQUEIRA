@@ -49,12 +49,6 @@
 
 <img align="right" height="280px" width="auto" src="https://firebasestorage.googleapis.com/v0/b/imagem-93c86.appspot.com/o/e425a773-bdc4-4fb3-bd25-539ac71e4a0b-removebg-preview.png?alt=media&token=696f7565-05f9-4c39-bdc5-68afabd81d24"/>
 
-<div>
-  <a href="https://instagram.com/pat.junqueira" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.twitch.tv/patrici71127596" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-  <a href = "mailto:patricia.junqueira11@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/patricia-miranda-e-silva-7a7030134/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
 
 #
 
