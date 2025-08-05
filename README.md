@@ -10,13 +10,11 @@
 
 🔧 Tecnologias: Python, Scala
 
-🏢 Atuando em: Engenharia de Dados
-
-🚀 Apaixonada em Engenharia de Dados e Data Science
+🏢 Atuando: Engenharia de Dados 5 anos
 
 🎓 Formada em: Engenharia da Computação
 
-👯 Experiência: Apache Airflow, Apache Spark, Databricks
+👯 Experiência: Data Facory, Databricks, Apache Spark, Scala
 
 <br/>
 <br/>
