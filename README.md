@@ -8,7 +8,7 @@
 
 :pushpin: Certificações: Azure DP-600 / DP-900
 
-🔧 Tecnologias: Python, SQL,Scala
+🔧 Tecnologias: Python, SQL, Scala
 
 🏢 Atuando: Engenharia de Dados 5 anos
 
